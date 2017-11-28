@@ -11,4 +11,6 @@ public class Person {
     private String sexy;
 
     private String wied;
+
+    private String app;
 }
