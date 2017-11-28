@@ -9,4 +9,6 @@ public class Person {
     private String home;
 
     private String sexy;
+
+    private String wied;
 }
