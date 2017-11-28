@@ -11,4 +11,3 @@ personal repository for study
 
 > merge test from local to master test one 
 
-###### merge test local
