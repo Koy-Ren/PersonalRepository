@@ -12,3 +12,5 @@ personal repository for study
 
 > merge test from local to master test one 
 
+this is a test for vs code
+
