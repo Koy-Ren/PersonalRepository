@@ -6,9 +6,8 @@ personal repository for study
 #### include:
 - Spring Boot
 - Regular Expression
-- SpringMVC
-- test
-- swagger ui
+- Spring MVC
+- swagger UI
 
 > merge test from local to master test one 
 
